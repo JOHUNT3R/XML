@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+  <Environment>Windows 10,11, Mac OS 12.2.1</Environment>
+  <Priority>High</Priority>
+  <Type>Bug</Type>
+  <Status>New</Status>
+  <Bug_Title>Open App Qwerty123</Bug_Title>
+  <Bug_ID>ID65445</Bug_ID>
+  <Build_Number>Version number 2.12.113</Build_Number>
+  <Reported_by>JOHUNT3R</Reported_by>
+</root>
