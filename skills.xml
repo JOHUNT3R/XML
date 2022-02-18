@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+  <HardSkills>HttpCoding</HardSkills>
+  <HardSkills>GitBash</HardSkills>
+  <HardSkills>JSONstructure</HardSkills>
+  <HardSkills>XML structure</HardSkills>
+  <HardSkills>Postman</HardSkills>
+  <HardSkills>Jmeter</HardSkills>
+  <HardSkills>Charles</HardSkills>
+  <HardSkills>Android studio</HardSkills>
+  <HardSkills>Api testing</HardSkills>
+  <HardSkills>Dev tools</HardSkills>
+  <Soft_Skills>communication</Soft_Skills>
+  <Soft_Skills>critical thinking</Soft_Skills>
+  <Soft_Skills>problem solving</Soft_Skills>
+  <Soft_Skills>ambition</Soft_Skills>
+  <Soft_Skills>self-management</Soft_Skills>
+  <Soft_Skills>empathy</Soft_Skills>
+</root>
+
